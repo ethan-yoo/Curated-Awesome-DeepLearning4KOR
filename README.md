@@ -1,9 +1,7 @@
 # Curated-Awesome-DeepLearning4KOR
-Personally Curated List of Awesome DeepLearning for KOR
+Personal Study Records
 
----
-
-# CONTENTS
+## CONTENTS
 - Contests
 - Papers
 - Books
@@ -12,3 +10,27 @@ Personally Curated List of Awesome DeepLearning for KOR
 - Documents
 
 ---
+
+### Contests
+
+- [Dacon](https://dacon.io/competitions)
+
+---
+
+### Papers
+- Forward-Forward
+---
+
+### Books
+
+---
+
+### Lectures
+
+---
+
+### Blogs
+
+---
+
+### Documents
