@@ -1,5 +1,7 @@
-# Curated-Awesome-DeepLearning4Kor
+# Curated-Awesome-DeepLearning4KOR
 Personally Curated List of Awesome DeepLearning for KOR
+
+---
 
 # CONTENTS
 - Contests
