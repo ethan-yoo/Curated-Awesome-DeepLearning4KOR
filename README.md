@@ -1,4 +1,4 @@
-# Personal Study Records
+# Personal DL Study Records
 
 ## CONTENTS
 - [Competitions](https://github.com/ethan-yoo/My-DL-Study-Records/blob/main/README.md#competitions)
@@ -25,6 +25,11 @@
 ---
 
 ### Lectures
+- [Khan Academy](https://ko.khanacademy.org/)
+- [Edwith (Naver)](https://www.edwith.org/)
+- [KOOC (Kaist)](https://kooc.kaist.ac.kr/)
+- [K-MOOC](http://www.kmooc.kr/)
+- [Cousera (kor)](https://kr.coursera.org/)
 
 ---
 
