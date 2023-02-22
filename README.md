@@ -1,7 +1,7 @@
 # Personal Study Records
 
 ## CONTENTS
-- [Contests](https://github.com/ethan-yoo/My-DL-Study-Records/blob/main/README.md#contests)
+- [Competitions](https://github.com/ethan-yoo/My-DL-Study-Records/blob/main/README.md#competitions)
 - [Papers](https://github.com/ethan-yoo/My-DL-Study-Records/blob/main/README.md#papers)
 - [Books](https://github.com/ethan-yoo/My-DL-Study-Records/blob/main/README.md#books)
 - [Lectures](https://github.com/ethan-yoo/My-DL-Study-Records/blob/main/README.md#lectures)
@@ -10,7 +10,7 @@
 
 ---
 
-### Contests
+### Competitions
 
 - [Dacon](https://dacon.io/competitions)
 
