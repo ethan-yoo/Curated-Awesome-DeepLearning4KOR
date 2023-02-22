@@ -1,5 +1,4 @@
-# Curated-Awesome-DeepLearning4KOR
-Personal Study Records
+# Personal Study Records
 
 ## CONTENTS
 - Contests
