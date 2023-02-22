@@ -29,7 +29,7 @@
 - [Edwith (Naver)](https://www.edwith.org/)
 - [KOOC (KAIST)](https://kooc.kaist.ac.kr/)
 - [K-MOOC](http://www.kmooc.kr/)
-- [Cousera (kor)](https://kr.coursera.org/)
+- [Cousera (KOR)](https://kr.coursera.org/)
 
 ---
 
