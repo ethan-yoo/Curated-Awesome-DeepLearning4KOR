@@ -1,4 +1,5 @@
-# Personal DL Study Records
+# DL Study Records
+- [Personal BLOG](https://velog.io/@nochesita/series)
 
 ## CONTENTS
 - [Competitions](https://github.com/ethan-yoo/My-DL-Study-Records/blob/main/README.md#competitions)
