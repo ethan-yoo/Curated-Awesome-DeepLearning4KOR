@@ -27,7 +27,7 @@
 ### Lectures
 - [Khan Academy](https://ko.khanacademy.org/)
 - [Edwith (Naver)](https://www.edwith.org/)
-- [KOOC (Kaist)](https://kooc.kaist.ac.kr/)
+- [KOOC (KAIST)](https://kooc.kaist.ac.kr/)
 - [K-MOOC](http://www.kmooc.kr/)
 - [Cousera (kor)](https://kr.coursera.org/)
 
